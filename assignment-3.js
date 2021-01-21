@@ -22,7 +22,7 @@ function budgetCalculator(watchQuantity, phoneQuantity, laptopQuantity) {
     let totalPhonePrice = phoneQuantity * 100;
     let totalLaptopPrice = laptopQuantity * 500;
     let budgetYouNeed = totalWatchPrice + totalPhonePrice + totalLaptopPrice;
-    return budgetYouNeed
+    return budgetYouNeed;
 }
 let myQuantity = budgetCalculator(4, 3, 2);//input here
 console.log("Budget You Need:", myQuantity, "dollar");
