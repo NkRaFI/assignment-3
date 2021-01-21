@@ -1,4 +1,4 @@
-//githup like goes here
+//https://github.com/NkRaFI/assignment-3
 
 //1) kilometerToMeter start
 function kilometerToMeter(kilometer) {
